@@ -9,6 +9,5 @@ namespace LeaveManagementWeb.Data
         public LeaveType LeaveType { get; set; }
         public int LeaveTypeId { get; set; }
         public int EmployeeId { get; set; }
-      
     }
 }
